@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Midterm2</string>
+    <string name="text_1">Nike Air Zoom Pegasus 36 Miami</string>
+    <string name="text_2">$299,43</string>
+    <string name="text_3">Nike Air Zoom Pegasus 36 Miami</string>
+    <string name="text_4">$299,43</string>
+    <string name="button_1">Check Out</string>
+    <string name="text_5">Enter Cupon Code</string>
+    <string name="text_6">Items (3)</string>
+    <string name="text_7">Shopping</string>
+    <string name="text_8">Import charges</string>
+    <string name="text_9">Total Price</string>
+    <string name="text_10">$598.86</string>
+    <string name="text_11">$40.00</string>
+    <string name="text_12">$128.00</string>
+    <string name="text_13">$766.86</string>
+    <string name="text_14">Your Cart</string>
+    <string name="text_15">Home</string>
+    <string name="text_16">Explore</string>
+    <string name="text_17">Cart</string>
+    <string name="text_18">Offer</string>
+    <string name="text_19">Account</string>
 </resources>
